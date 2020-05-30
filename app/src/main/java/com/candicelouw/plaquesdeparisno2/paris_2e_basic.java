@@ -9,6 +9,10 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.widget.RemoteViews;
 
+/**
+ * Originally created and designed by CLouw on 30/05/2020.
+ */
+
 public class paris_2e_basic extends AppWidgetProvider {
 
     public void onReceive(Context context, Intent intent){
